@@ -22,5 +22,5 @@ pip install -r requirements.txt
 git pull
 python run.py
 
-Selesai >_
+Selesai >_<
 ```
